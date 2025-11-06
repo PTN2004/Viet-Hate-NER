@@ -1,0 +1,10 @@
+transformers
+accelerate
+uvicorn
+torch
+datasets
+scikit-learn
+tqdm
+
+fastAPI
+dotenv
