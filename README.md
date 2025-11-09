@@ -1,6 +1,4 @@
-# Tạo lại file README.md để người dùng tải về
-
-readme_text = """# 🧠 Hate Speech Detection API (Vietnamese NER)
+# 🧠 Hate Speech Detection API (Vietnamese NER)
 
 Một API nhận diện **ngôn từ thù ghét và xúc phạm** trong tiếng Việt (Hate & Offensive Speech Detection),
 được huấn luyện dựa trên mô hình **PhoBERT** và tập dữ liệu **ViHOS (Vietnamese Hate and Offensive Spans Detection)**.
