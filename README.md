@@ -9,14 +9,10 @@ Triển khai với **FastAPI**, tương thích **Docker**, và sẵn sàng **dep
 
 ## 🚀 Mục lục
 - [Giới thiệu](#-giới-thiệu)
-- [Cấu trúc dự án](#-cấu-trúc-dự-án)
 - [Cài đặt](#-cài-đặt)
 - [Chạy API](#-chạy-api)
 - [Gọi thử API](#-gọi-thử-api)
-- [Ví dụ kết quả](#-ví-dụ-kết-quả)
-- [Docker](#-docker)
 - [Hướng phát triển](#-hướng-phát-triển)
-- [Giấy phép](#-giấy-phép)
 
 ---
 
